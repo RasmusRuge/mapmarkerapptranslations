@@ -29,7 +29,7 @@ No
 ```
 translated (by machine 🤖) as:
 ```
-Ingen
+Nej
 ```
 
 
@@ -39,7 +39,7 @@ Cancel
 ```
 translated (by machine 🤖) as:
 ```
-Afbestille
+Annuller
 ```
 
 
@@ -79,7 +79,7 @@ Do you really want to delete this marker?
 ```
 translated (by machine 🤖) as:
 ```
-Vil du virkelig ønsker at slette denne markør?
+Ønsker du virkelig ønsker at slette denne markør?
 ```
 
 
@@ -129,7 +129,7 @@ Untitled
 ```
 translated (by machine 🤖) as:
 ```
-Untitled
+Uden titel
 ```
 
 
@@ -169,7 +169,7 @@ Are you sure you want to delete this folder? All markers associated to this fold
 ```
 translated (by machine 🤖) as:
 ```
-Er du sikker på at du vil slette denne mappe? Alle markører associeret til denne mappe vil blive slettet permanent!
+Er du sikker på at du vil slette denne mappe? Alle markører associeret med denne mappe vil blive slettet permanent!
 ```
 
 
@@ -179,7 +179,7 @@ Failed to create new folder, it already exists
 ```
 translated (by machine 🤖) as:
 ```
-Kunne ikke oprette en ny mappe, det findes allerede
+Kunne ikke oprette ny mappe, den findes allerede
 ```
 
 
@@ -189,7 +189,7 @@ Failed to rename the folder, the destination name already exists
 ```
 translated (by machine 🤖) as:
 ```
-Kunne ikke omdøbe mappen, allerede navnet destination
+Kunne ikke omdøbe mappen, navnet findes allerede
 ```
 
 
@@ -199,7 +199,7 @@ Latitude:
 ```
 translated (by machine 🤖) as:
 ```
-Latitude:
+Breddegrad:
 ```
 
 
@@ -209,7 +209,7 @@ Longitude:
 ```
 translated (by machine 🤖) as:
 ```
-Longitude:
+Længdegrad:
 ```
 
 
@@ -229,7 +229,7 @@ Import/Export
 ```
 translated (by machine 🤖) as:
 ```
-Import / Export
+Import/Export
 ```
 
 
@@ -239,7 +239,7 @@ Import markers
 ```
 translated (by machine 🤖) as:
 ```
-Import markører
+Importer markører
 ```
 
 
@@ -249,7 +249,7 @@ File imported successfully
 ```
 translated (by machine 🤖) as:
 ```
-Fil importeret
+Fil succesfuldt importeret
 ```
 
 
@@ -279,7 +279,7 @@ Location services are disabled. To get your current location you must enable the
 ```
 translated (by machine 🤖) as:
 ```
-Beliggenhed tjenester er deaktiveret. For at få din aktuelle placering skal du aktivere dem.
+Positionstjenester er deaktiveret. For at få din aktuelle placering skal de aktiveres.
 ```
 
 
@@ -289,7 +289,7 @@ Could not find address
 ```
 translated (by machine 🤖) as:
 ```
-Kunne ikke finde adresse
+Kunne ikke finde adressen
 ```
 
 
@@ -339,7 +339,7 @@ Folder name
 ```
 translated (by machine 🤖) as:
 ```
-Folder navn
+Mappe navn
 ```
 
 
@@ -389,7 +389,7 @@ Share
 ```
 translated (by machine 🤖) as:
 ```
-Andel
+Del
 ```
 
 
@@ -399,7 +399,7 @@ Folder:
 ```
 translated (by machine 🤖) as:
 ```
-Folder:
+Mappe:
 ```
 
 
@@ -420,7 +420,7 @@ This snapshot was made with the app Map Marker:
 ```
 translated (by machine 🤖) as:
 ```
-Dette snapshot blev lavet med app Map Marker : 
+Dette snapshot blev lavet med appen Map Marker : 
  %s
 ```
 
@@ -431,7 +431,7 @@ Processing data&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-Behandling af data&#8230;
+Behandler data&#8230;
 ```
 
 
@@ -481,7 +481,7 @@ Satellite
 ```
 translated (by machine 🤖) as:
 ```
-Satellite
+Satellit
 ```
 
 
@@ -512,7 +512,7 @@ Send me an email :-)
 ```
 translated (by machine 🤖) as:
 ```
-Fundet et problem? Har du en idé om forbedring? 
+Har du fundet et problem? Har du en idé til forbedring? 
  Send mig en email :-)
 ```
 
@@ -534,8 +534,8 @@ Rate it 5 stars :-)
 ```
 translated (by machine 🤖) as:
 ```
-Du kan lide den app? 
- bedømme det 5 stjerner :-)
+Kan du lide appen? 
+Så giv den 5 stjerner :-)
 ```
 
 
@@ -565,7 +565,7 @@ Acquiring location&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-Erhvervelse placering&#8230;
+Få placering&#8230;
 ```
 
 
@@ -595,7 +595,7 @@ Feet
 ```
 translated (by machine 🤖) as:
 ```
-Feet
+Fod
 ```
 
 
@@ -605,7 +605,7 @@ Miles
 ```
 translated (by machine 🤖) as:
 ```
-Miles
+Mile
 ```
 
 
@@ -615,7 +615,7 @@ Adjust map camera position when guiding to a marker location
 ```
 translated (by machine 🤖) as:
 ```
-Juster kort kamera position, når ledende til en markør placering
+Juster kortets kamera position, når appen leder til en markør placering
 ```
 
 
@@ -625,7 +625,7 @@ Keep screen on when guiding to a marker location
 ```
 translated (by machine 🤖) as:
 ```
-Hold skærmen på når vejledende til en markør placering
+Hold skærmen tændt når appen leder til en markør placering
 ```
 
 
@@ -635,7 +635,7 @@ Marker details copied to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-Markør detaljer kopieret til udklipsholderen
+Markørdetaljer kopieret til udklipsholderen
 ```
 
 
@@ -655,7 +655,7 @@ Error starting internal task manager, app will now exit
 ```
 translated (by machine 🤖) as:
 ```
-Fejl starter intern opgave manager, app afsluttes nu
+Fejl ved start af intern opgavemanager, app afsluttes nu
 ```
 
 
@@ -675,7 +675,7 @@ Could not create the map capture
 ```
 translated (by machine 🤖) as:
 ```
-Kunne ikke oprette kortet capture
+Kunne ikke oprette kortbilledet 
 ```
 
 
@@ -695,7 +695,7 @@ Imperial (Miles/Feet)
 ```
 translated (by machine 🤖) as:
 ```
-Imperial (Miles / Feet)
+Imperial (Mil / Fod)
 ```
 
 
@@ -705,7 +705,7 @@ There is a problem with Google Play Services: it needs to be installed, updated 
 ```
 translated (by machine 🤖) as:
 ```
-Der er et problem med Google Play Services : det skal installeres, opdateres eller aktiveret. Klik på OK for at forsøge at løse det.
+Der er et problem med Google Play Service : den skal installeres, opdateres eller aktiveret. Klik på OK for at forsøge at løse det.
 ```
 
 
@@ -725,7 +725,7 @@ If you like my app you can reward me by taking the time to give a good rating :-
 ```
 translated (by machine 🤖) as:
 ```
-Hvis du kan lide min app, du kan belønne mig ved at tage sig tid til at give en god bedømmelse :-)
+Hvis du kan lide min app, kan du belønne mig ved at tage dig tid til at give en god bedømmelse :-)
 ```
 
 
@@ -748,8 +748,8 @@ gave a rating
 ```
 translated (by machine 🤖) as:
 ```
-Jeg allerede 
- gav en rating
+Jeg har allerede 
+Bedømt 
 ```
 
 
@@ -761,7 +761,7 @@ remind me
 translated (by machine 🤖) as:
 ```
 Måske senere 
- minde mig
+ Påmind mig
 ```
 
 
@@ -773,7 +773,7 @@ do not remind me
 translated (by machine 🤖) as:
 ```
 Måske senere 
- ikke minde mig
+påmind mig ikke
 ```
 
 
@@ -783,7 +783,7 @@ Could not find the place
 ```
 translated (by machine 🤖) as:
 ```
-Kunne ikke finde sted
+Kunne ikke finde stedet
 ```
 
 
@@ -803,7 +803,7 @@ Move the map around to place your marker where you want and click OK to place it
 ```
 translated (by machine 🤖) as:
 ```
-Flyt kortet rundt for at placere din markør, hvor du ønsker, og klik på OK for at placere den
+Flyt kortet rundt for at placere din markør, hvor du ønsker, klik på OK for at placere den
 ```
 
 
@@ -833,7 +833,7 @@ Display zoom buttons
 ```
 translated (by machine 🤖) as:
 ```
-Display zoom-knapperne
+Vis zoom-knapper
 ```
 
 
@@ -873,7 +873,7 @@ Coordinates format
 ```
 translated (by machine 🤖) as:
 ```
-Koordinater format
+Koordinat format
 ```
 
 
@@ -913,7 +913,7 @@ Used compass sensor
 ```
 translated (by machine 🤖) as:
 ```
-Brugt kompas sensor
+Brugte kompas sensore
 ```
 
 
@@ -923,7 +923,7 @@ FAQ/Help
 ```
 translated (by machine 🤖) as:
 ```
-Spørgsmål / Hjælp
+FAQ / Hjælp
 ```
 
 
@@ -963,7 +963,7 @@ Marker popup style
 ```
 translated (by machine 🤖) as:
 ```
-Marker popup stil
+MarkØr popupstil
 ```
 
 
@@ -973,7 +973,7 @@ Bottom
 ```
 translated (by machine 🤖) as:
 ```
-Bottom
+Bund 
 ```
 
 
@@ -983,7 +983,7 @@ Bubble
 ```
 translated (by machine 🤖) as:
 ```
-Bubble
+Boble
 ```
 
 
@@ -1023,7 +1023,7 @@ Crosshair display
 ```
 translated (by machine 🤖) as:
 ```
-Crosshair display
+Sigtekorns visning
 ```
 
 
@@ -1033,7 +1033,7 @@ Coordinates window
 ```
 translated (by machine 🤖) as:
 ```
-Koordinater vindue
+Koordinatvindue
 ```
 
 
@@ -1043,7 +1043,7 @@ Lat:
 ```
 translated (by machine 🤖) as:
 ```
-Lat:
+Bredde:
 ```
 
 
@@ -1053,7 +1053,7 @@ Lng:
 ```
 translated (by machine 🤖) as:
 ```
-LNG:
+Længde:
 ```
 
 
@@ -1063,7 +1063,7 @@ Marker instant adding mode
 ```
 translated (by machine 🤖) as:
 ```
-Marker øjeblik tilføjer tilstand
+Markør øjeblikkelig tilføjelses tilstand
 ```
 
 
@@ -1083,7 +1083,7 @@ Display
 ```
 translated (by machine 🤖) as:
 ```
-Udstilling
+Visning
 ```
 
 
@@ -1113,7 +1113,7 @@ Markers ignored on import (duplicates): %1$d
 ```
 translated (by machine 🤖) as:
 ```
-Markers ignoreret ved import (dubletter): %1$d
+Markøre ignoreret ved import (dubletter): %1$d
 ```
 
 
@@ -1133,7 +1133,7 @@ No auto naming
 ```
 translated (by machine 🤖) as:
 ```
-Ingen auto navngivning
+Ingen autonavngivning
 ```
 
 
@@ -1143,7 +1143,7 @@ Auto naming "number"
 ```
 translated (by machine 🤖) as:
 ```
-Auto navngivning "nummer"
+Autonavngivning "nummer"
 ```
 
 
@@ -1153,7 +1153,7 @@ Auto naming "Marker number"
 ```
 translated (by machine 🤖) as:
 ```
-Auto navngivning "Marker nummer"
+Autonavngivning "Markør nummer"
 ```
 
 
@@ -1163,7 +1163,7 @@ New marker auto naming
 ```
 translated (by machine 🤖) as:
 ```
-Ny markør auto navngivning
+Ny markør autonavngivning
 ```
 
 
@@ -1173,7 +1173,7 @@ Marker %1$d
 ```
 translated (by machine 🤖) as:
 ```
-Marker %1$d
+Markør %1$d
 ```
 
 
@@ -1233,7 +1233,7 @@ About
 ```
 translated (by machine 🤖) as:
 ```
-Cirka
+Om
 ```
 
 
@@ -1263,7 +1263,7 @@ Share a snapshot of the map
 ```
 translated (by machine 🤖) as:
 ```
-Del et øjebliksbillede af kortet
+Del et snapshot af kortet
 ```
 
 
@@ -1293,7 +1293,7 @@ Badges
 ```
 translated (by machine 🤖) as:
 ```
-Badges
+Mærker 
 ```
 
 
@@ -1303,7 +1303,7 @@ Buy a donation badge
 ```
 translated (by machine 🤖) as:
 ```
-Køb en donation badge
+Køb en donation mærke
 ```
 
 
@@ -1313,7 +1313,7 @@ Thank you for your donation! This donation badge grants you access to premium fe
 ```
 translated (by machine 🤖) as:
 ```
-Tak for din donation! Denne donation badge tilskud dig adgang til præmie :-)
+Tak for din donation! Dette donationsmærke giver dig adgang til premium features:-)
 ```
 
 
@@ -1393,7 +1393,7 @@ Syncing…
 ```
 translated (by machine 🤖) as:
 ```
-Synkronisering&#8230;
+Synkronisere&#8230;
 ```
 
 
@@ -1453,7 +1453,7 @@ Purchase successful!
 ```
 translated (by machine 🤖) as:
 ```
-Køb en succes!
+Købet lykkedes!
 ```
 
 
@@ -1463,7 +1463,7 @@ Purchase failed: %1$s
 ```
 translated (by machine 🤖) as:
 ```
-Indkøb %1$s
+Købet mislykkedes %1$s
 ```
 
 
@@ -1473,7 +1473,7 @@ Premium access available! You currently have access to premium features.
 ```
 translated (by machine 🤖) as:
 ```
-Premium-adgang til rådighed! Du har i øjeblikket har adgang til premium-funktioner.
+Premium-adgang til rådighed! Du har nu adgang til premium-funktioner.
 ```
 
 
@@ -1483,7 +1483,7 @@ You cannot select that folder because it contains multiple files named %1$s. The
 ```
 translated (by machine 🤖) as:
 ```
-Du kan ikke vælge mappen, fordi den indeholder flere filer med %1$s Synkroniseringen kræver mappen for at indeholde kun én fil med det navn.
+Du kan ikke vælge mappen, fordi den indeholder flere filer med navnet %1$s Synkroniseringen kræver at mappen kun indeholder én fil med det navn.
 ```
 
 
@@ -1493,7 +1493,7 @@ It seems sync data already exists in that folder. If you select that folder, you
 ```
 translated (by machine 🤖) as:
 ```
-Det synes sync data findes allerede i denne mappe. Hvis du vælger den mappe, vil dine lokale data blive lagt sammen med de data mappe, når synkronisering udføres. Er det hvad du ønsker?
+Det ser ud til sync data allerede findes i denne mappe. Hvis du vælger denne mappe, vil din lokale data blive lagt sammen med de data mappe, når synkronisering udføres. Vil du fortsætte?
 ```
 
 
@@ -1523,7 +1523,7 @@ Sync this map file on the cloud
 ```
 translated (by machine 🤖) as:
 ```
-Synkroniser dette kort fil på skyen
+Synkroniser denne kort fil til skyen
 ```
 
 
@@ -1553,7 +1553,7 @@ Create a new map file locally
 ```
 translated (by machine 🤖) as:
 ```
-Opret et nyt kort fil lokalt
+Opret en ny kortfil lokalt
 ```
 
 
@@ -1563,7 +1563,7 @@ Create cloud map
 ```
 translated (by machine 🤖) as:
 ```
-Opret sky kort
+Opret cloudkort
 ```
 
 
@@ -1573,7 +1573,7 @@ Create a map file on the cloud
 ```
 translated (by machine 🤖) as:
 ```
-Opret et kort fil på skyen
+Opret en kort fil i skyen
 ```
 
 
@@ -1623,7 +1623,7 @@ Enter the new map's name
 ```
 translated (by machine 🤖) as:
 ```
-Indtast det nye kort navn
+Indtast det nye kortnavn
 ```
 
 
@@ -1633,7 +1633,7 @@ Indtast det nye kort navn
 ```
 translated (by machine 🤖) as:
 ```
-%1$d %2$d markører, %3$d KB
+%1$d foldere %2$d markører, størrelse: %3$d KB
 ```
 
 
@@ -1663,7 +1663,7 @@ Could not create folder: error occurred
 ```
 translated (by machine 🤖) as:
 ```
-Kunne ikke oprette mappe: Der opstod fejl
+Kunne ikke oprette mappen: Der opstod fejl
 ```
 
 
@@ -1673,7 +1673,7 @@ Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
 translated (by machine 🤖) as:
 ```
-Tak, fordi du har Map Marker Premium :-)
+Tak, fordi du har købt Map Marker Premium opgraderingen:-)
 ```
 
 
@@ -1683,7 +1683,7 @@ Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
 translated (by machine 🤖) as:
 ```
-Tak for at vise din interesse ved at hævde din Map Marker :-)
+Tak for at vise din interesse ved at hente din gratis Map Marker premium :-)
 ```
 
 
@@ -1703,7 +1703,7 @@ Upgrade to premium and take full advantage of Map Marker features!
 ```
 translated (by machine 🤖) as:
 ```
-Opgrader til præmie og drage fuld fordel Map Marker funktioner!
+Opgrader til præmie og få fuld fordel af alle Map Marker funktionerne !
 ```
 
 
@@ -1713,8 +1713,8 @@ Sorry, you need the premium upgrade to access this feature. Upgrade to premium a
 ```
 translated (by machine 🤖) as:
 ```
-Beklager, du har brug for den præmie opgradering til adgang til denne funktion. Opgrader til præmie og drage fuld fordel Map Marker funktioner!
-```
+Beklager, du har brug for premium opgraderingen for at få adgang til denne funktion. Opgrader til præmie og få fuld fordel af alle Map Marker funktioner!
+``
 
 
 ## Translation Key: premium_options_title_text_with_free
@@ -1723,7 +1723,7 @@ You have the premium upgrade for free! You can still purchase it if you want to 
 ```
 translated (by machine 🤖) as:
 ```
-Du har premium opgradering gratis! Du kan stadig købe det, hvis du ønsker at vise din :-)
+Du har fået premium opgraderingen gratis! Du kan stadig købe den, hvis du ønsker at vise din støtte :-)
 ```
 
 
@@ -1763,7 +1763,7 @@ Open a list of actions to solve possible problems
 ```
 translated (by machine 🤖) as:
 ```
-Åbn en liste over tiltag til at løse eventuelle problemer
+Åbn en liste over forslag til at løse eventuelle problemer
 ```
 
 
@@ -1783,7 +1783,7 @@ Checks that the app has access to internet
 ```
 translated (by machine 🤖) as:
 ```
-Kontrollerer, at app har adgang til internettet
+Kontrollerer, at appen har adgang til internettet
 ```
 
 
@@ -1803,7 +1803,7 @@ Checks that the app can save files on the internal SD card
 ```
 translated (by machine 🤖) as:
 ```
-Kontrollerer, at app kan gemme filer på den interne SD-kort
+Kontrollerer, at app kan gemme filer på det interne SD-kort
 ```
 
 
@@ -1823,7 +1823,7 @@ Open the details of the currently installed Google Play Services app
 ```
 translated (by machine 🤖) as:
 ```
-Åbn oplysninger om de aktuelt Google Play Services app
+Åbn oplysninger om den aktuelle Google Play Services app
 ```
 
 
@@ -1863,7 +1863,7 @@ Write an email to support with the details of your problem
 ```
 translated (by machine 🤖) as:
 ```
-Skriv email til at støtte med oplysninger om dit problem
+Skriv email til support med oplysninger om dit problem
 ```
 
 
@@ -1873,7 +1873,7 @@ Device network unavailable
 ```
 translated (by machine 🤖) as:
 ```
-Device netværk utilgængelig
+Enhedsnetværk utilgængelig
 ```
 
 
@@ -1893,7 +1893,7 @@ Network test succeeded
 ```
 translated (by machine 🤖) as:
 ```
-Netværk test lykkedes
+Netværkstest lykkedes
 ```
 
 
@@ -1903,7 +1903,7 @@ Network test failed
 ```
 translated (by machine 🤖) as:
 ```
-Netværk mislykkedes
+Netværkstest mislykkedes
 ```
 
 
@@ -1913,7 +1913,7 @@ Disk test failed: could not write to internal storage
 ```
 translated (by machine 🤖) as:
 ```
-Disk mislykkedes: Kunne ikke skrive til interne lager
+Disktest mislykkedes: Kunne ikke skrive til internt lager
 ```
 
 
@@ -1923,7 +1923,7 @@ Disk test failed: could not write to external storage
 ```
 translated (by machine 🤖) as:
 ```
-Disk mislykkedes: Kunne ikke skrive til ekstern lagring
+Disk mislykkedes: Kunne ikke skrive til eksternt lager
 ```
 
 
@@ -1933,7 +1933,7 @@ Disk test succeeded
 ```
 translated (by machine 🤖) as:
 ```
-Disk test lykkedes
+Disktest lykkedes
 ```
 
 
@@ -1943,7 +1943,7 @@ App failed to start: %s
 ```
 translated (by machine 🤖) as:
 ```
-App ikke %s
+App kunne ikke starte: %s
 ```
 
 
@@ -1963,7 +1963,7 @@ Share cloud map
 ```
 translated (by machine 🤖) as:
 ```
-Del sky kort
+Del cloudkort
 ```
 
 
@@ -1973,7 +1973,7 @@ Open the cloud map folder to view its properties and share it with other people
 ```
 translated (by machine 🤖) as:
 ```
-Åbn skyen kortet mappen for at se dens egenskaber, og dele det med andre mennesker
+Åbn cloudkort mappen for at se dens egenskaber, og dele dem med andre mennesker
 ```
 
 
@@ -1993,7 +1993,7 @@ Copy the app hidden internal files to the sdcard
 ```
 translated (by machine 🤖) as:
 ```
-Kopier app skjulte interne filer til sdcard
+Kopier appens skjulte interne filer til sdcard
 ```
 
 
@@ -2003,7 +2003,7 @@ Enter destination folder path
 ```
 translated (by machine 🤖) as:
 ```
-Indtast destination mappesti
+Indtast destination mappens sti
 ```
 
 
@@ -2023,7 +2023,7 @@ Files successfully saved to: %s
 ```
 translated (by machine 🤖) as:
 ```
-Filer gemt %s
+Filer gemt på %s
 ```
 
 
@@ -2033,7 +2033,7 @@ View history/Restore
 ```
 translated (by machine 🤖) as:
 ```
-Vis historie / Gendan
+Vis historik / Gendan
 ```
 
 
@@ -2043,7 +2043,7 @@ View history of modifications to the cloud folder and select a version to restor
 ```
 translated (by machine 🤖) as:
 ```
-Vis historie modifikationer til skyen mappe og vælge en version for at gendanne til
+Vis historik for modifikationer til cloud mappen og vælge en version at gendanne til
 ```
 
 
@@ -2063,7 +2063,7 @@ Create a new map file locally or on the cloud
 ```
 translated (by machine 🤖) as:
 ```
-Opret et nyt kort fil lokalt eller på skyen
+Opret en nyt kortfil lokalt eller i skyen
 ```
 
 
@@ -2073,7 +2073,7 @@ Open cloud map
 ```
 translated (by machine 🤖) as:
 ```
-Open sky kort
+Open cloud kort
 ```
 
 
@@ -2083,7 +2083,7 @@ Open a map file from the cloud
 ```
 translated (by machine 🤖) as:
 ```
-Åbn et kort fil fra skyen
+Åbn en kortfil fra skyen
 ```
 
 
@@ -2093,7 +2093,7 @@ Map Marker needs the permission to access your location in order to display it o
 ```
 translated (by machine 🤖) as:
 ```
-Map Marker har brug for tilladelse til at få adgang til din placering for at kunne vise det på kortet
+Map Marker har brug for at få adgang til din placering for at kunne vise den på kortet
 ```
 
 
@@ -2113,7 +2113,7 @@ Open settings
 ```
 translated (by machine 🤖) as:
 ```
-Åbne indstillinger
+Åben indstillinger
 ```
 
 
@@ -2143,7 +2143,7 @@ Choose a version to restore to
 ```
 translated (by machine 🤖) as:
 ```
-Vælg en version for at gendanne til
+Vælg en version at gendanne til
 ```
 
 
@@ -2153,7 +2153,7 @@ You must sync first before restoring an older version
 ```
 translated (by machine 🤖) as:
 ```
-Du skal synkronisere først, før du gendanner en ældre version
+Du skal synkronisere før du gendanner en ældre version
 ```
 
 
@@ -2173,7 +2173,7 @@ Map Marker lost permissions to write to your cloud account. Sync will always fai
 ```
 translated (by machine 🤖) as:
 ```
-Map Marker tabte tilladelser til at skrive til din cloud-konto. Sync vil altid mislykkes, indtil dette er fast. Har du lyst til at ordne det nu?
+Map Marker tabte tilladelser til at skrive til din cloud-konto. Sync vil altid mislykkes, indtil dette er løst. Har du lyst til at ordne det nu?
 ```
 
 
@@ -2183,7 +2183,7 @@ A sync error occurred. Please try again.
 ```
 translated (by machine 🤖) as:
 ```
-Der opstod en sync fejl. Prøv igen.
+Der opstod en synk. fejl. Prøv igen.
 ```
 
 
@@ -2233,7 +2233,7 @@ Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for det
 ```
 translated (by machine 🤖) as:
 ```
-Det lykkedes ikke at gendanne tilladelser cloud storage. Se "Om" -&gt; "FAQ" for at få oplysninger om, hvordan du gendanner tilladelser cloud.
+Det lykkedes ikke at gendanne cloud storage tilladelser. Se "Om" -&gt; "FAQ" for at få oplysninger om, hvordan du gendanner cloud tilladelser.
 ```
 
 
@@ -2283,7 +2283,7 @@ No phone number is defined for that marker
 ```
 translated (by machine 🤖) as:
 ```
-Ingen telefon nummer er defineret for denne markør
+Intet telefon nummer er defineret for denne markør
 ```
 
 
@@ -2313,7 +2313,7 @@ Open the marker street view in this app
 ```
 translated (by machine 🤖) as:
 ```
-Åbn markør gadevisning i denne app
+Åbn markøren gadevisning i denne app
 ```
 
 
@@ -2323,7 +2323,7 @@ Enter navigation mode in this app to get directions to the marker
 ```
 translated (by machine 🤖) as:
 ```
-Indtast navigation mode i denne app for at få anvisninger til markøren
+Indtast navigations mode i denne app for at få rutevejledning til markøren
 ```
 
 
@@ -2343,7 +2343,7 @@ Share the selected marker as plain text into another app
 ```
 translated (by machine 🤖) as:
 ```
-Del den valgte markør som almindelig tekst i en anden app
+Del den valgte markør som ren tekst i en anden app
 ```
 
 
@@ -2353,7 +2353,7 @@ Del den valgte markør som almindelig tekst i en anden app
 ```
 translated (by machine 🤖) as:
 ```
-%1$d markører %2$d mapper
+%1$d markører i %2$d mapper
 ```
 
 
@@ -2363,7 +2363,7 @@ A sync error occurred: the cloud data has been updated with a more recent versio
 ```
 translated (by machine 🤖) as:
 ```
-En synkronisering fejl: skyen data er blevet opdateret med en nyere version af den app. Du skal Map Marker på denne enhed til at synkronisere.
+En synkronisering fejl: cloud data er blevet opdateret med en nyere version af appen. Du bør opdatere Map Marker på denne enhed for at synkronisere.
 ```
 
 
@@ -2423,7 +2423,7 @@ Default navigation action
 ```
 translated (by machine 🤖) as:
 ```
-Standard navigation handling
+Standard navigationshandling
 ```
 
 
@@ -2433,7 +2433,7 @@ Default phone action
 ```
 translated (by machine 🤖) as:
 ```
-Standard telefon handling
+Standard telefonhandling
 ```
 
 
@@ -2463,7 +2463,7 @@ What is the premium upgrade?
 ```
 translated (by machine 🤖) as:
 ```
-Hvad er den præmie opgraderingen?
+Hvad er premium opgraderingen?
 ```
 
 
@@ -2473,7 +2473,7 @@ Premium free trial started! The trial will expire at the following date: %s
 ```
 translated (by machine 🤖) as:
 ```
-Premium gratis prøveversion i gang! Forsøget udløber ved følgende dato: %s
+Premium gratis prøveversion er i gang! Prøveversionen udløber den: %s
 ```
 
 
@@ -2484,7 +2484,7 @@ Trial expiration:
 ```
 translated (by machine 🤖) as:
 ```
-Trial udløb: 
+Prøveversion udløb: 
  %s
 ```
 
@@ -2495,7 +2495,7 @@ Trial expired
 ```
 translated (by machine 🤖) as:
 ```
-Trial er udløbet
+Prøveversion er udløbet
 ```
 
 
@@ -2505,7 +2505,7 @@ Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
 translated (by machine 🤖) as:
 ```
-Sync blev annulleret: du har brug for den præmie opgraderingen for at udføre synkronisering.
+Sync blev annulleret: du har brug for premium opgraderingen for at udføre synkronisering.
 ```
 
 
@@ -2515,7 +2515,7 @@ Error: trial starting in the future!
 ```
 translated (by machine 🤖) as:
 ```
-Fejl: retssag starter i fremtiden!
+Fejl: prøveperiode starter i fremtiden!
 ```
 
 
@@ -2545,7 +2545,7 @@ Organize
 ```
 translated (by machine 🤖) as:
 ```
-Organisere
+Organiser
 ```
 
 
@@ -2555,7 +2555,7 @@ Create
 ```
 translated (by machine 🤖) as:
 ```
-Skabe
+Opret
 ```
 
 
@@ -2575,7 +2575,7 @@ Search failed
 ```
 translated (by machine 🤖) as:
 ```
-Søg mislykkedes
+Søgning mislykkedes
 ```
 
 
@@ -2585,7 +2585,7 @@ Search failed, network error
 ```
 translated (by machine 🤖) as:
 ```
-Søg mislykkedes, netværksfejl
+Søgning mislykkedes, netværksfejl
 ```
 
 
@@ -2615,7 +2615,7 @@ The file already exists, do you want to overwrite it?
 ```
 translated (by machine 🤖) as:
 ```
-Filen findes allerede, vil du overskrive det?
+Filen findes allerede, vil du overskrive den?
 ```
 
 
@@ -2635,7 +2635,7 @@ Error loading the Google Map component. Please restart the app.
 ```
 translated (by machine 🤖) as:
 ```
-Fejl ved indlæsning af Google Map komponent. Genstart app.
+Fejl ved indlæsning af Google Map komponent. Genstart appen.
 ```
 
 
@@ -2645,7 +2645,7 @@ You will see the list of your markers here. You currently have no markers in the
 ```
 translated (by machine 🤖) as:
 ```
-Du vil se en liste over dine markører her. Du har i øjeblikket ingen markører i den valgte mappe (r). Du kan tilføje en ny markør ved at klikke på knappen nedenfor.
+Du vil se en liste over dine markører her. Du har i øjeblikket ingen markører i de(n) valgte mappe(r). Du kan tilføje en ny markør ved at klikke på knappen nedenfor.
 ```
 
 
@@ -2735,7 +2735,7 @@ Storage folder
 ```
 translated (by machine 🤖) as:
 ```
-mappe Opbevaring
+Opbevaringsmappe
 ```
 
 
@@ -2746,7 +2746,7 @@ Test results of the offline maps folder:
 ```
 translated (by machine 🤖) as:
 ```
-Testresultater af offline maps mappen: 
+Testresultater fra offline maps mappen: 
  %s
 ```
 
@@ -2757,7 +2757,7 @@ No folder is selected for offline map files. In order to use offline maps, open 
 ```
 translated (by machine 🤖) as:
 ```
-Ingen mappe er valgt for offline kort filer. For at kunne bruge offline kort, åbne indstillingerne og vælge en mappe til offline kort filer.
+Ingen mappe er valgt til offline kort filer. For at kunne bruge offline kort, åbne indstillingerne og vælge en mappe til offline kort filer.
 ```
 
 
@@ -2767,7 +2767,7 @@ The selected offline map folder you selected contains no files. Make sure you ad
 ```
 translated (by machine 🤖) as:
 ```
-Den valgte offline kort mappe, du har valgt indeholder ingen filer. Sørg for at tilføje offline kort filer i denne mappe, før du bruger offline kort, ellers kort vil være tom.
+Den offline kort mappe du har valgt indeholder ingen filer. Sørg for at tilføje offline kort filer i denne mappe, før du bruger offline kort, ellers vil kortet være tomt.
 ```
 
 
@@ -2807,7 +2807,7 @@ Click here to open the web page explaining how to obtain those maps.
 ```
 translated (by machine 🤖) as:
 ```
-Klik her for at åbne websiden forklarer, hvordan du får disse kort.
+Klik her for at åbne hjemmesiden som forklarer, hvordan du får disse kort.
 ```
 
 
@@ -2827,7 +2827,7 @@ Copyright and legal mentions
 ```
 translated (by machine 🤖) as:
 ```
-Ophavsret og juridisk nævner
+Ophavsret og juridisk nævnelser
 ```
 
 
@@ -2839,7 +2839,7 @@ Legal mentions for other map data than Google Maps:
 ```
 translated (by machine 🤖) as:
 ```
-Juridiske nævner andre kortdata end Google Maps : 
+Juridiske nævnelser for andre kortdata end Google Maps : 
  
  %s
 ```
@@ -2891,7 +2891,7 @@ Start background sync…
 ```
 translated (by machine 🤖) as:
 ```
-Start baggrund synkronisering&#8230;
+Start baggrundssynkronisering&#8230;
 ```
 
 
@@ -2911,7 +2911,7 @@ When app enters background
 ```
 translated (by machine 🤖) as:
 ```
-Når app kommer ind baggrund
+Når appen kommer ind baggrunden 
 ```
 
 
@@ -2921,7 +2921,7 @@ Når app kommer ind baggrund
 ```
 translated (by machine 🤖) as:
 ```
-%d sekunder efter den app kommer ind baggrund
+%d sekunder efter appen kommer ind i baggrunden 
 ```
 
 
@@ -2931,7 +2931,7 @@ translated (by machine 🤖) as:
 ```
 translated (by machine 🤖) as:
 ```
-%d minutter efter app kommer ind baggrund
+%d minutter efter appen kommer ind i baggrunden 
 ```
 
 
@@ -2941,7 +2941,7 @@ Sync starting in %d seconds
 ```
 translated (by machine 🤖) as:
 ```
-Sync starter i %d sekunder
+Sync starter om %d sekunder
 ```
 
 
@@ -2951,7 +2951,7 @@ You can cancel the sync at any time and your data will be synced on next attempt
 ```
 translated (by machine 🤖) as:
 ```
-Du kan annullere synkroniseringen til enhver tid og dine data vil blive synkroniseret på næste forsøg.
+Du kan annullere synkroniseringen til enhver tid og dine data vil blive synkroniseret ved næste forsøg.
 ```
 
 
@@ -2971,7 +2971,7 @@ Cannot start sync with no internet access on the device.
 ```
 translated (by machine 🤖) as:
 ```
-Kan ikke starte synkronisering med ingen adgang til internettet på enheden.
+Kan ikke starte synkronisering uden adgang til internettet på enheden.
 ```
 
 
@@ -2981,7 +2981,7 @@ Manage map files
 ```
 translated (by machine 🤖) as:
 ```
-Administrer kort filer
+Administrer kortfiler
 ```
 
 
@@ -2991,7 +2991,7 @@ Map files
 ```
 translated (by machine 🤖) as:
 ```
-Kort filer
+Kortfiler
 ```
 
 
@@ -3011,7 +3011,7 @@ This action will delete the map file from this device
 ```
 translated (by machine 🤖) as:
 ```
-Denne handling sletter kortet fil fra denne enhed
+Denne handling sletter kortfilen fra denne enhed
 ```
 
 
@@ -3021,7 +3021,7 @@ This action will delete the map file from your device forever. All the markers i
 ```
 translated (by machine 🤖) as:
 ```
-Denne handling sletter kortet fil fra din enhed for evigt. Alle markørerne inde at filen vil blive tabt. Er du sikker?
+Denne handling sletter kortfilen fra din enhed for evigt. Alle markørerne inde i filen vil gå tabt. Er du sikker?
 ```
 
 
@@ -3031,7 +3031,7 @@ This action will delete the map file from your device forever. All changes not y
 ```
 translated (by machine 🤖) as:
 ```
-Denne handling sletter kortet fil fra din enhed for evigt. Alle ændringer endnu ikke er synkroniseret til skyen, vil blive tabt. Skyen mappe vil ikke blive påvirket af denne handling, og du bliver nødt til at slette den manuelt. Er du sikker?
+Denne handling sletter kortfilen fra din enhed for evigt. Alle ændringer som endnu ikke er synkroniseret til skyen, vil gå tabt. Din cloudmappe vil ikke blive påvirket af denne handling, og du bliver nødt til at slette den manuelt. Er du sikker?
 ```
 
 
@@ -3041,7 +3041,7 @@ Map file successfully deleted
 ```
 translated (by machine 🤖) as:
 ```
-Kort fil slettet
+Kortfil slettet
 ```
 
 
@@ -3051,7 +3051,7 @@ Could not delete map file: %s
 ```
 translated (by machine 🤖) as:
 ```
-Kunne ikke slette map fil: %s
+Kunne ikke slette kortfil: %s
 ```
 
 
@@ -3061,7 +3061,7 @@ Marker saved in a non visible folder
 ```
 translated (by machine 🤖) as:
 ```
-Marker gemt i en ikke synlig mappe
+Markør gemt i en ikke synlig mappe
 ```
 
 
@@ -3071,7 +3071,7 @@ Your changes have not been synced recently. Make sure you keep your cloud copy u
 ```
 translated (by machine 🤖) as:
 ```
-Dine ændringer er ikke blevet synkroniseret nylig. Sørg for at holde din cloud kopiere op til dato. Vil du vil synkronisere nu?
+Dine ændringer er ikke blevet synkroniseret fornylig. Sørg for at holde din cloud kopiere opdateret. Vil du synkronisere nu?
 ```
 
 
@@ -3081,7 +3081,7 @@ The markers of this map file are currently only saved on this device. It is reco
 ```
 translated (by machine 🤖) as:
 ```
-Markørerne for dette kort fil øjeblikket kun gemmes på denne enhed. Det anbefales at gemme dine markører på skyen for at undgå at miste dem. Ønsker du at gemme dem til skyen nu?
+Markørerne for denne kortfil er for øjeblikket kun gemt på denne enhed. Det anbefales at gemme dine markører på skyen for at undgå at miste dem. Ønsker du at gemme dem i skyen nu?
 ```
 
 
@@ -3091,7 +3091,7 @@ Do you want to sync this map file? With manual you will need to sync manually ev
 ```
 translated (by machine 🤖) as:
 ```
-Vil du synkronisere dette kort fil? Med manuel skal du synkronisere manuelt hver gang. Med automatisk (anbefales), vil du vælger en destination sky mappe og sync til skyen starter automatisk, hver gang den app kommer ind baggrunden.
+Vil du synkronisere denne kortfil? Med manuel skal du synkronisere manuelt hver gang. Med automatisk (anbefales), vil du vælger en destinations cloudmappe og synk til skyen starter automatisk, hver gang appen kommer ind i baggrunden.
 ```
 
 
@@ -3121,7 +3121,7 @@ You can sync a map file on the cloud at any time by clicking on the map file in 
 ```
 translated (by machine 🤖) as:
 ```
-Du kan synkronisere et kort fil på skyen når som helst ved at klikke på kortet filen i siden baren og derefter vælge "Cloud sync" valgmulighed.
+Du kan synkronisere en kortfil til skyen når som helst ved at klikke på kortfilen i siden og derefter vælge "Cloud sync".
 ```
 
 
@@ -3131,7 +3131,7 @@ You can sync a map file manually to the cloud at any time by clicking the "share
 ```
 translated (by machine 🤖) as:
 ```
-Du kan synkronisere et kort fil manuelt til skyen til enhver tid ved at klikke på "share" -knappen i hovedsagen bar, og derefter "Andre muligheder" og derefter "Alle markører og mapper" og derefter ved at vælge din favorit cloud storage app.
+Du kan synkronisere et kort fil manuelt til skyen til enhver tid ved at klikke på "share" -knappen, og derefter "Andre muligheder" og derefter "Alle markører og mapper" og derefter ved at vælge din favorit cloud storage app.
 ```
 
 
@@ -3141,7 +3141,7 @@ Move the map around to place the points, click '+' to add a point, click '-' to 
 ```
 translated (by machine 🤖) as:
 ```
-Flyt kortet rundt for at placere de punkter, skal du klikke på '+' for at tilføje et punkt, skal du klikke på '-' for at fjerne et punkt og skifte punkter med de tidligere / næste knapper. Klik til sidst på Gem for at gemme formen.
+Flyt kortet rundt for at placere punktet, klik på '+' for at tilføje et punkt, klik på '-' for at fjerne et punkt og skifte punkter med forrige/næste knapperne. Klik til sidst på Gem for at gemme formen.
 ```
 
 
@@ -3151,7 +3151,7 @@ There are not enough points to create the shape. Create more points and try agai
 ```
 translated (by machine 🤖) as:
 ```
-Der er ikke nok point til at skabe formen. Opret flere point, og prøv igen.
+Der er ikke nok punkter til at skabe formen. Opret flere punkter, og prøv igen.
 ```
 
 
@@ -3161,7 +3161,7 @@ Could not activate the premium upgrade from your Google account. If you purchase
 ```
 translated (by machine 🤖) as:
 ```
-Kunne ikke aktivere den præmie opgradering fra din Google-konto. Hvis du har købt den præmie opgradering for nylig fra en anden enhed, skal du måske vente lidt for køb til at udbrede, at genstarte din enhed kunne gøre det hurtigere. Hvis det stadig ikke virker, skal du sørge for du har købt, installeret den app og aktiveret med den samme Google-konto. Hvis problemet fortsætter, vil jeg hjælpe dig det bedste jeg kan, kan du kontakte mig via email (sidepanel -&gt; om -&gt; send email ).
+Kunne ikke aktivere premium opgraderingen fra din Google-konto. Hvis du har købt premiumopgradering for nylig fra en anden enhed, skal du måske vente lidt før købet når igennem, prøv at genstarte din enhed for at gøre det hurtigere. Hvis det stadig ikke virker, skal du sørge for du har købt, installeret den app og aktiveret med den samme Google-konto. Hvis problemet fortsætter, vil jeg hjælpe dig det bedste jeg kan, kan du kontakte mig via email (sidepanel -&gt; om -&gt; send email ).
 ```
 
 
@@ -3213,7 +3213,7 @@ Replace title
 ```
 translated (by machine 🤖) as:
 ```
-Udskift titel
+skift titel
 ```
 
 
@@ -3223,7 +3223,7 @@ Replace description
 ```
 translated (by machine 🤖) as:
 ```
-Udskift beskrivelse
+skift beskrivelse
 ```
 
 
@@ -3233,7 +3233,7 @@ Unit of distance
 ```
 translated (by machine 🤖) as:
 ```
-Enhed for distance
+Målestok for distance
 ```
 
 
@@ -3253,7 +3253,7 @@ Metric (%s)
 ```
 translated (by machine 🤖) as:
 ```
-Metric ( %s )
+Metrisk ( %s )
 ```
 
 
@@ -3303,7 +3303,7 @@ Fit in a %1$sx%2$s square
 ```
 translated (by machine 🤖) as:
 ```
-Fit i en %1$s x %2$s torv
+Tilpas i en %1$s x %2$s firkant
 ```
 
 
@@ -3343,7 +3343,7 @@ Disabled
 ```
 translated (by machine 🤖) as:
 ```
-Handicappet
+Slået fra
 ```
 
 
@@ -3373,7 +3373,7 @@ The sync was aborted because it was exceeding the allowed data volume limit. To 
 ```
 translated (by machine 🤖) as:
 ```
-Synkroniseringen blev afbrudt, fordi det overskrider den tilladte data volumen grænse. For at øge eller ændre grænsen, gå til indstillingerne. Du kan også klikke på "force sync" for at synkronisere bare én gang uden begrænsning datamængde.
+Synkroniseringen blev afbrudt, fordi det overskrider den tilladte data mængde. For at øge eller ændre grænsen, gå til indstillingerne. Du kan også klikke på "force sync" for at synkronisere én gang uden begrænset datamængde.
 ```
 
 
@@ -3383,7 +3383,7 @@ Force sync
 ```
 translated (by machine 🤖) as:
 ```
-kraft synkronisering
+Force sync
 ```
 
 
@@ -3393,7 +3393,7 @@ This will override the usual data limit just for this one time. Force sync?
 ```
 translated (by machine 🤖) as:
 ```
-Dette vil tilsidesætte den sædvanlige grænse data bare for denne ene gang. Kraft synkronisering?
+Dette vil tilsidesætte den sædvanlige datagrænse denne ene gang. Gennemtving synkronisering?
 ```
 
 
@@ -3533,7 +3533,7 @@ Vis advarselsikon for synkronisering
 ```
 translated (by human 👀) as:
 ```
-Synkroniseringen blev afbrudt, fordi en af ​​de mediefiler på skyen manglede. Du kan ignorere manglende filer ved at klikke på "force sync". Advarsel vil ignorere manglende filer resultere i at fjerne dem fra databasen, hvilket betyder, at andre enheder stadig have en lokal kopi af filen sletter det på sync.
+Synkroniseringen blev afbrudt, fordi en af ​​mediefilerne på skyen manglede. Du kan ignorere manglende filer ved at klikke på "force sync". ignorere advarsel om manglende filer vil resultere i at fjerne dem fra databasen, hvilket betyder, at andre enheder som stadig kan have en lokal kopi af filen får den slettet ved sync.
 ```
 
 
